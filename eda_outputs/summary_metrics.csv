@@ -1,0 +1,20 @@
+metric,value
+trader_rows,211224
+trader_columns,16
+accounts,32
+coins,246
+unique_orders,50555
+unique_transactions,101184
+trader_date_start,2023-05-01 00:00:00
+trader_date_end,2025-05-01 00:00:00
+sentiment_rows,2644
+sentiment_date_start,2018-02-01 00:00:00
+sentiment_date_end,2025-05-02 00:00:00
+overlap_date_start,2023-05-01 00:00:00
+overlap_date_end,2025-05-01 00:00:00
+gross_volume_usd,1191187442.46
+total_closed_pnl,10296958.94
+total_fees,245857.72
+total_net_pnl,10051101.22
+buy_trades,102696
+sell_trades,108528
