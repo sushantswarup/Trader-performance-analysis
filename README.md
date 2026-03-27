@@ -144,6 +144,20 @@ The notebook and exported charts include:
 - average account-day PnL by sentiment
 - average win rate by sentiment
 
+## Sample Charts
+
+### Average Daily Net PnL by Sentiment
+
+![Average Daily Net PnL by Sentiment](eda_outputs/avg_daily_pnl_by_sentiment.png)
+
+### Sentiment Value vs Daily Net PnL
+
+![Sentiment Value vs Daily Net PnL](eda_outputs/sentiment_value_vs_net_pnl.png)
+
+### Daily Net PnL vs Fear and Greed Value
+
+![Daily Net PnL vs Fear and Greed Value](eda_outputs/sentiment_vs_daily_pnl.png)
+
 ## How To Run
 
 ### Option 1: Open the Notebook
